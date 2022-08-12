@@ -1,0 +1,50 @@
+---
+layout: post
+title: Scotland Day 2 - Glasgow
+date: '2022-07-17 21:20:00'
+tags:
+- travel
+- scotland2022
+---
+
+After my long trip I slept around 12 twelve hours Saturday night. I woke up Sunday morning and enjoyed some coffee and toast before we headed to Glasgow for the day. Andy and I are both fans of a Scottish sitcom called [Still Game](https://www.netflix.com/title/80073432) so we made sure to visit one of the more famous locations from the show, Navid's shop. Unfortunately it was closed Sunday so we just got a couple Photos of the outside as well as Jack and Victor's bench.
+
+<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/5A7B7438-1C73-4CBB-9833-F4723B711E7B.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/5A7B7438-1C73-4CBB-9833-F4723B711E7B.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/5A7B7438-1C73-4CBB-9833-F4723B711E7B.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/5A7B7438-1C73-4CBB-9833-F4723B711E7B.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/5A7B7438-1C73-4CBB-9833-F4723B711E7B.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/23C5551A-A15A-44A2-81D9-1D00F9ED30A1.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/23C5551A-A15A-44A2-81D9-1D00F9ED30A1.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/23C5551A-A15A-44A2-81D9-1D00F9ED30A1.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/23C5551A-A15A-44A2-81D9-1D00F9ED30A1.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/23C5551A-A15A-44A2-81D9-1D00F9ED30A1.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+</div></div></figure>
+
+After our quick stop we spent a deal of time at Glasgow University, the fourth oldest university in the english speaking world.
+
+<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
+<div class="kg-gallery-row">
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/4D6746BC-8755-4D00-9E06-DF3D04925266.jpeg" width="2000" height="3152" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/4D6746BC-8755-4D00-9E06-DF3D04925266.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/4D6746BC-8755-4D00-9E06-DF3D04925266.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/4D6746BC-8755-4D00-9E06-DF3D04925266.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/4D6746BC-8755-4D00-9E06-DF3D04925266.jpeg 2004w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/B29C7BE7-7A46-4FA2-80D1-6E1155CC1E85.jpeg" width="2000" height="1429" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/B29C7BE7-7A46-4FA2-80D1-6E1155CC1E85.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/B29C7BE7-7A46-4FA2-80D1-6E1155CC1E85.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/B29C7BE7-7A46-4FA2-80D1-6E1155CC1E85.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/B29C7BE7-7A46-4FA2-80D1-6E1155CC1E85.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/D2AF00CF-2C40-4B51-AEEF-529CE806715D.jpeg" width="2000" height="3006" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/D2AF00CF-2C40-4B51-AEEF-529CE806715D.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/D2AF00CF-2C40-4B51-AEEF-529CE806715D.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/D2AF00CF-2C40-4B51-AEEF-529CE806715D.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/D2AF00CF-2C40-4B51-AEEF-529CE806715D.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+</div>
+<div class="kg-gallery-row">
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/2F725469-B431-4130-BD5F-566F06B8073A.jpeg" width="2000" height="2718" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/2F725469-B431-4130-BD5F-566F06B8073A.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/2F725469-B431-4130-BD5F-566F06B8073A.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/2F725469-B431-4130-BD5F-566F06B8073A.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/2F725469-B431-4130-BD5F-566F06B8073A.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/EC979EC7-B3C9-445C-B35C-B7A344CECC83.jpeg" width="2000" height="1485" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/EC979EC7-B3C9-445C-B35C-B7A344CECC83.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/EC979EC7-B3C9-445C-B35C-B7A344CECC83.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/EC979EC7-B3C9-445C-B35C-B7A344CECC83.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/EC979EC7-B3C9-445C-B35C-B7A344CECC83.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+</div>
+</div></figure>
+
+While are the university we also spent a little time in the Kelvingrove Art Gallery and Museum.
+
+<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/E4D5C4B0-0073-48B7-AABB-86D3C3FB567F.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/E4D5C4B0-0073-48B7-AABB-86D3C3FB567F.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/E4D5C4B0-0073-48B7-AABB-86D3C3FB567F.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/E4D5C4B0-0073-48B7-AABB-86D3C3FB567F.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/E4D5C4B0-0073-48B7-AABB-86D3C3FB567F.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/A1425B52-7BA7-4A1F-99C2-77C7C3ABAF4C.jpeg" width="2000" height="2574" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/A1425B52-7BA7-4A1F-99C2-77C7C3ABAF4C.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/A1425B52-7BA7-4A1F-99C2-77C7C3ABAF4C.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/A1425B52-7BA7-4A1F-99C2-77C7C3ABAF4C.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/A1425B52-7BA7-4A1F-99C2-77C7C3ABAF4C.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+</div></div></figure>
+
+On the way back to the house at Penpot we stopped and took in a tiny bit of the scenery, and Kim's driving helped us avoid an forced mutton accidents.
+
+<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
+<div class="kg-gallery-row">
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/327D2215-8664-4402-8FCB-FBC3A08ED61C.jpeg" width="2000" height="1238" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/327D2215-8664-4402-8FCB-FBC3A08ED61C.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/327D2215-8664-4402-8FCB-FBC3A08ED61C.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/327D2215-8664-4402-8FCB-FBC3A08ED61C.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/327D2215-8664-4402-8FCB-FBC3A08ED61C.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/0E40DCE7-2FEA-4FEE-A86D-A62014DFABC0.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/0E40DCE7-2FEA-4FEE-A86D-A62014DFABC0.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/0E40DCE7-2FEA-4FEE-A86D-A62014DFABC0.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/0E40DCE7-2FEA-4FEE-A86D-A62014DFABC0.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/0E40DCE7-2FEA-4FEE-A86D-A62014DFABC0.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/61C740E4-D4F1-4F1A-B80A-22B379304FFA.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/61C740E4-D4F1-4F1A-B80A-22B379304FFA.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/61C740E4-D4F1-4F1A-B80A-22B379304FFA.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/61C740E4-D4F1-4F1A-B80A-22B379304FFA.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/61C740E4-D4F1-4F1A-B80A-22B379304FFA.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+</div>
+<div class="kg-gallery-row">
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/C017AD05-5A22-4C78-BDCA-FC78C89C8665.jpeg" width="2000" height="2667" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/C017AD05-5A22-4C78-BDCA-FC78C89C8665.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/C017AD05-5A22-4C78-BDCA-FC78C89C8665.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/C017AD05-5A22-4C78-BDCA-FC78C89C8665.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/C017AD05-5A22-4C78-BDCA-FC78C89C8665.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/7DA077F6-B356-45F7-AAA2-98005D09A27E.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/7DA077F6-B356-45F7-AAA2-98005D09A27E.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/7DA077F6-B356-45F7-AAA2-98005D09A27E.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/7DA077F6-B356-45F7-AAA2-98005D09A27E.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/7DA077F6-B356-45F7-AAA2-98005D09A27E.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+</div>
+</div></figure>

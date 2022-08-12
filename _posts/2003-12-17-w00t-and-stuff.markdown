@@ -1,0 +1,9 @@
+---
+layout: post
+title: w00t! and stuff
+date: '2003-12-17 18:19:00'
+---
+
+Uh, I edited this post because I think I need to keep the exciting news a secret for a couple weeks? 🙂
+
+<!--kg-card-end: markdown-->

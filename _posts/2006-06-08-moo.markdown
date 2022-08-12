@@ -1,0 +1,9 @@
+---
+layout: post
+title: Moo
+date: '2006-06-08 01:50:41'
+---
+
+My friend Elaine has a cow in CowParade. She got a great location right outside the Overture Center. She’s got many more pictures on her web site. There’s also a great Flickr photoset here.
+
+<!--kg-card-end: markdown-->

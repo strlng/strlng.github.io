@@ -1,0 +1,9 @@
+---
+layout: post
+title: I hate server upgrades
+date: '2006-01-11 23:15:00'
+---
+
+I’m pretty sure now why it is that I consider myself a software developer and not a system administrator. I get to do both to a degree at work and ever damn time I touch a server something goes wrong. Maybe I’ll relay the LDAP directory server upgrade debacle some time, but tonight it was just a typical upgrade that bit me in the ass. I needed to upgrade an Apple Xserve from 10.3, Panther to 10.4, Tiger. The server has nothing special on it. Just a web app I wrote and Filemaker Server. Christ, I need to get home. Anyway, I created a disk image of the server as a backup (it took an hour and a half) and then ran the upgrade. The damn thing died during the upgrade. I reboot and all I get is kernel panics. So I had to restore the disk image (45 minutes) and try again. This time it took. So now I am just running some updates and then going home. Oh, and I started the upgrade at 4:00 this afternoon. Fuck me. The login window just froze. I gotta say, I haven’t been too impressed with OS X Server lately. Seriously, why the fuck is this so hard. This was a Panther server that was running fine. Nothing weird on it at all. I needed to perform a simple upgrade. Why is this so fucking difficult? Rebooting. Back up now, it seems fine. Looks like a couple more updates are available. Installing. Rebooting after the updates… Back up now, checking for more updates. There are none, testing a few things to make sure the fucking thing isn’t broken. FUCK, MySQL isn’t running for some reason. It is running, it’s just that the 10.4.4 update “fixed” an error they had in their bundled PHP. Now I have to do the reverse of the “fix” in order to get their PHP to see my MySQL. Okay, everything works. I am going home. I hate server upgrades.
+
+<!--kg-card-end: markdown-->

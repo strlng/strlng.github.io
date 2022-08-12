@@ -1,0 +1,14 @@
+---
+layout: post
+title: About
+date: '2010-03-03 21:14:53'
+---
+
+![me-2013](https://i1.wp.com/sterlinganderson.net/wp-content/uploads/2010/03/me-2013-150x150.jpg?resize=150%2C150)I originally registered this domain name back in 2000 or early 2001. I don’t remember exactly when. I do remember my employer at the time owed me some money so when I registered a couple domains for him sterlinganderson.net was tacked on to the order. I’ve played with many different content management/blogging systems over the last ten years, even writing my own at one point.
+
+Archives go back as far as 2003. The rest is lost to the [Internet Archive](http://web.archive.org/web/*/http://sterlinganderson.net). Content is all over the place. Lots of useless information, a few posts that have generated some decent traffic, and quite a few family pictures.
+
+**Contacting Me**  
+You can contact me via [email](mailto:s@sterlinganderson.net), or try [Twitter](http://twitter.com/sterlingnomore)
+
+<!--kg-card-end: markdown-->

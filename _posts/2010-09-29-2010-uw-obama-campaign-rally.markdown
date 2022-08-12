@@ -1,0 +1,15 @@
+---
+layout: post
+title: 2010 UW Obama Campaign Rally
+date: '2010-09-29 09:27:59'
+---
+
+[![obama 5](https://i1.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-51-120x120.jpg?resize=120%2C120 "obama 5")](https://i1.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-51.jpg)Sarah and I took the kids to the Obama campaign rally on the UW-Madison campus last night, September 28, 2010. It was a great experience for them. The crowd was estimated [at over 26,000 people by the police](http://www.news.wisc.edu/18465) though early estimates stated they were expecting only around 15,000. We got there early enough that we didn’t have to wait too long to get in, but apparently the line to get to security was over a mile long.  
+[![](https://i1.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-41-120x120.jpg?resize=120%2C120 "obama 4")](https://i1.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-41.jpg)During the event the secure area was pretty much full. Bascom Hill, and State Street were also both covered with people who could not get in. Our representatives in Congress, Tammy Baldwin and Russ Feingold both spoke, and President Obama was introduced by Milwaukee Mayor Tom Barrett, who is running for Wisconsin Governor. Those who spoke before him did a good job, particularly Baldwin, but President Obama’s speech was excellent. He did a great job of energizing the crowd, something I hope will carry over to the rest of the state/country.  
+I’ve got a few photos of the event, and a great video of Joe pumped up by U.S. Representative Tammy Baldwin’s excellent speech.
+
+<video class="sublime" height="266" poster="/video/joseph_rally-poster.jpg" preload="none" width="500"><source src=" __GHOST_URL__ /video/joseph_rally-h264.m4v"></source></video>  
+[  
+ ![obama 1](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-11-120x120.jpg?resize=120%2C120 "obama 1")](http://frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-11.jpg) [![obama 2](https://i0.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-21-120x120.jpg?resize=120%2C120 "obama 2")](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-21.jpg) [![obama 3](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-31-120x120.jpg?resize=120%2C120 "obama 3")](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-31.jpg)
+
+<!--kg-card-end: markdown-->

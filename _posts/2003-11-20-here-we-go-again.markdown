@@ -1,0 +1,9 @@
+---
+layout: post
+title: Here we go again!
+date: '2003-11-20 21:00:00'
+---
+
+Well, I’ve finished my big redesign. I know the site doesnt look incredibly different but I am really proud of it. The last couple incarnations of my site have just been modifications of other ideas I have seen on the web. This time I took a blank slate all did it all. Of course, the site probably doesnt really look all that original but really, when was the last time you saw a really original design on the web? The reason I am so happy with things is because I took the time to figure quite a bit of stuff out. Most noteably CSS (cascading style sheets). There are no tables used in this site. All the layout is CSS. I also made sure everything is valid XHTML. So my web site is 100% standards compliant now. Hopefully, this will mean nothing to you, the viewer. If you are using a current web browser the site should look fine. One exception though. If you are using Internet Explorer, even the most recent version, the logo at the top probably looks bad. That is because Internet Explorer cannot handle transparent PNG images. I was going to fix it but decided to say f\* you Microsoft, fix your browser. As I was coding the site I ran across several references to Internet Explorer non-compliance. Youd think a company making so much money would spend a bit of it to make sure their web browser is standards compliant. Anyway, I’m pretty happy with how things turned out in the end.
+
+<!--kg-card-end: markdown-->

@@ -1,0 +1,9 @@
+---
+layout: post
+title: What a weekend!
+date: '2007-04-30 18:25:00'
+---
+
+We took the kids out to practice riding their bikes sans training wheels this weekend. Jack, who just turned five needs some work. He didn’t really seem to be in the zone, and was easily distracted. There were a few times where it seemed he might be balancing okay, but he’s got his work cut out for him. He just turned five though, he’ll have it by the end of the summer. Noah on the other hand, she’s ready. She will be eight in June. We should have had her up on two wheels two years ago, but she has always been a bit skittish. We were practicing on a basketball court and it took five minutes for her to be up. She doesn’t have the confidence to get started on her own yet, but she can balance and go all on her own now. I had one of those weird parent moments when she first went on her own. I pretty much collapsed it was so wonderful to see. I think Noah and I will be doing more practicing this week. She’s pretty excited about the possibility of going for bike rides with dad. So am I. 🙂 I also changed the oil in the lawn mower this weekend. That wouldn’t be a big deal except I bought the thing in 1998 and this was the first time I had changed the oil. It was black. I think I’ll change it again half way through the season just to make sure things stay a bit cleaner in there.
+
+<!--kg-card-end: markdown-->

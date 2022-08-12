@@ -1,0 +1,9 @@
+---
+layout: post
+title: Real not being treated fairly by Apple
+date: '2004-08-17 16:35:00'
+---
+
+Real says Apple is not being playing fair by refusing to license it’s FairPlay DRM technology. FairPlay is what keeps you from giving the music you buy from the iTunes Music Store to the masses on the internet. FairPlay is also used on Apple’s iPod. Real decided to hack FairPlay so you can put music bought from their store onto your iPod. Thus giving the millions of iPod owners reason to use their music store. The funny thing here is Real is not practicing what they preach. They won’t even let me buy music from them because I use a Mac. Assuming I were able to buy music from Real I would probably want to listen to it in iTunes, since that is my media player of choice. Nope, sorry. Can only play music you buy from Real in RealPlayer. That wonderful piece of ad-ridden shit. So what is Real really complaining about? They want a piee of Apple’s pie. Apple is doing nothing Real themselves are not doing, and would not do if they had a killer music devie like the iPod. My advice to Real would be to come back and complain when I, as a Mac user can buy music from their store and stick it into my iTunes library. Then I will tell Apple to play fair.
+
+<!--kg-card-end: markdown-->

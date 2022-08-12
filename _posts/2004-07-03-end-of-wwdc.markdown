@@ -1,0 +1,9 @@
+---
+layout: post
+title: End of WWDC
+date: '2004-07-03 02:26:00'
+---
+
+The Apple WWDC is now over. There were some very excellent sessions and some that were not so great. The Quicktime in the Enterprise session was great. Dave Schroeder from UW DoIT showed the Digital Academic Television Network (DATN). People were very impressed. Of course some of the sessions were not so great. I went to a session titled ?¢‚Ç¨?ìBuilding Your Web Site on OS X”. I was expecting a session talking about setting up things like Apache, PHP, MySQL, etc. for a production web site. What I got was a very basic demo of getting those things running on your desktop machine so you can test your web site. Pretty disappointing. There of course was hella information on OS X 10.4, code named ?¢‚Ç¨?ìTiger”. It looks really good. The big features they showed off that I think were the best were: Spotlight: file system searching. Find anything iChat AV: Video chat with up to 3 people, audio chat with 10 Safari: RSS newsfeed reader built in. You have to see it to appreciate it I think. Automator: Setup taks for automating various tasks. Very, very cool looking. I’m planning on writing a bit on the server version when I get back home. It has some other great sounding updates and new features. For now it’s time to pack up and get ready to head home.
+
+<!--kg-card-end: markdown-->
