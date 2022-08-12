@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Travel
 date: '2022-08-09 18:12:15'
 tags:
