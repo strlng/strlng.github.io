@@ -2,6 +2,7 @@
 layout: post
 title: Scotland Day 10 - Inverness to Edinburgh
 date: '2022-07-25 20:34:47'
+image: assets/images/2022/07/IMG_0350.jpeg
 tags:
 - scotland2022
 - travel
