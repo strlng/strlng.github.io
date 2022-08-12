@@ -6,7 +6,7 @@ words_per_minute: 200
 
 baseurl: /
 
-remote_theme: myJekyll/jasper2
+remote_theme: wowthemesnet/jekyll-theme-memoirs
 
 # Website info
 title: sterlinganderson.net
