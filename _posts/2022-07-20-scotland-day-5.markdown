@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scotland Day 5 - Edinburgh (day 2)
+featured_image: /images/2022-07-20-scotland-day-5/DSC_1019.jpeg
 date: '2022-07-20 17:38:00'
 tags:
 - scotland2022
@@ -9,81 +10,60 @@ tags:
 
 My Apple Watch tells today me I broke pretty much every movement record I had previously set. I'm not going to argue because it feels like it.
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/07/3368A1FB-412B-490D-B5FA-2332443FD2E4.jpeg" class="kg-image" alt loading="lazy" width="2000" height="2000" srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/3368A1FB-412B-490D-B5FA-2332443FD2E4.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/3368A1FB-412B-490D-B5FA-2332443FD2E4.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/3368A1FB-412B-490D-B5FA-2332443FD2E4.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/3368A1FB-412B-490D-B5FA-2332443FD2E4.jpeg 2400w" sizes="(min-width: 720px) 720px"></figure>
+![](/images/2022-07-20-scotland-day-5/IMG_0191.jpeg)
 
-I woke up this morning, grabbed breakfast, then headed out to wander Edinburgh until a tour I had scheduled started after lunch. I walked through Old Town, to New town (which is apparently where the upper crust moved to get away from the rabble in the early 18th century). New Town has lots of shops and statues to important people. As a new development (started being build in the 18th centruty) the streets are much wider.
+I woke up this morning, grabbed breakfast, then headed out to wander Edinburgh until a tour I had scheduled started after lunch. I walked through Old Town, to New town (which is apparently where the upper crust moved to get away from the rabble in the early 18th century). New Town has lots of shops and statues to important people. As a new development (started being build in the 18th century) the streets are much wider.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/82BC7C7B-4B9C-448A-85B5-8D3CC67DF80E.jpeg" width="2000" height="2801" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/82BC7C7B-4B9C-448A-85B5-8D3CC67DF80E.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/82BC7C7B-4B9C-448A-85B5-8D3CC67DF80E.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/82BC7C7B-4B9C-448A-85B5-8D3CC67DF80E.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/82BC7C7B-4B9C-448A-85B5-8D3CC67DF80E.jpeg 2086w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/23900215-FD71-4DC0-A98B-BC75E145C70D.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/23900215-FD71-4DC0-A98B-BC75E145C70D.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/23900215-FD71-4DC0-A98B-BC75E145C70D.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/23900215-FD71-4DC0-A98B-BC75E145C70D.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/23900215-FD71-4DC0-A98B-BC75E145C70D.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/9415FDDF-77EE-4F3A-BE26-AA4369F29909.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/9415FDDF-77EE-4F3A-BE26-AA4369F29909.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/9415FDDF-77EE-4F3A-BE26-AA4369F29909.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/9415FDDF-77EE-4F3A-BE26-AA4369F29909.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/9415FDDF-77EE-4F3A-BE26-AA4369F29909.jpeg 2054w" sizes="(min-width: 720px) 720px"></div>
+<div class="gallery" data-columns="3">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0137.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0134.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0138.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0145.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0148.jpeg">
 </div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/5D373444-CB48-48D4-986C-40DD1421EBE0.jpeg" width="1949" height="2726" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/5D373444-CB48-48D4-986C-40DD1421EBE0.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/5D373444-CB48-48D4-986C-40DD1421EBE0.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/5D373444-CB48-48D4-986C-40DD1421EBE0.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/5D373444-CB48-48D4-986C-40DD1421EBE0.jpeg 1949w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/A6469F05-95D9-4F93-9DEC-EC1586E6B96E.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/A6469F05-95D9-4F93-9DEC-EC1586E6B96E.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/A6469F05-95D9-4F93-9DEC-EC1586E6B96E.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/A6469F05-95D9-4F93-9DEC-EC1586E6B96E.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/A6469F05-95D9-4F93-9DEC-EC1586E6B96E.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
 
 New Town is neat and all, but Old Town is much more interesting. Edinburgh castle sits atop essentially an extinct volcano. Old Town was built up along the eastern side of it where glaciers were hindered in their work, and left behind a crag and tail formation of rock. You end up with about a mile of descent towards the bay with steep hills on either side. It's got a definite Harry Potter vibe, and you can understand how J.K. Rowling was able to write there. The walking tour I went on was very interesting as they presented a ton of facts about the Royal Mile as it is called.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/A4B619E0-D930-46B2-98A8-8D3E0DC6F194.jpeg" width="2000" height="1429" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/A4B619E0-D930-46B2-98A8-8D3E0DC6F194.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/A4B619E0-D930-46B2-98A8-8D3E0DC6F194.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/A4B619E0-D930-46B2-98A8-8D3E0DC6F194.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/A4B619E0-D930-46B2-98A8-8D3E0DC6F194.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/7E793161-FC3E-4D12-A746-632CF0207F19.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/7E793161-FC3E-4D12-A746-632CF0207F19.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/7E793161-FC3E-4D12-A746-632CF0207F19.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/7E793161-FC3E-4D12-A746-632CF0207F19.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/7E793161-FC3E-4D12-A746-632CF0207F19.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/DE952096-9992-44C6-910B-2DECD0687621.jpeg" width="2000" height="1428" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/DE952096-9992-44C6-910B-2DECD0687621.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/DE952096-9992-44C6-910B-2DECD0687621.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/DE952096-9992-44C6-910B-2DECD0687621.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/DE952096-9992-44C6-910B-2DECD0687621.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="gallery" data-columns="2">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_0976.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_0988.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_0996.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_0997.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1025.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1038.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1059.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1046.jpeg">
 </div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/9D8214FD-14F3-4FC8-B931-BCE238670154.jpeg" width="2000" height="3006" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/9D8214FD-14F3-4FC8-B931-BCE238670154.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/9D8214FD-14F3-4FC8-B931-BCE238670154.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/9D8214FD-14F3-4FC8-B931-BCE238670154.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/9D8214FD-14F3-4FC8-B931-BCE238670154.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/4E3A8A5C-FA8B-4A1F-A800-29DA941F6FF2.jpeg" width="2000" height="1428" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/4E3A8A5C-FA8B-4A1F-A800-29DA941F6FF2.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/4E3A8A5C-FA8B-4A1F-A800-29DA941F6FF2.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/4E3A8A5C-FA8B-4A1F-A800-29DA941F6FF2.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/4E3A8A5C-FA8B-4A1F-A800-29DA941F6FF2.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/5C0A8C20-88D6-428E-8483-3A2A71A88C4F.jpeg" width="2000" height="2798" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/5C0A8C20-88D6-428E-8483-3A2A71A88C4F.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/5C0A8C20-88D6-428E-8483-3A2A71A88C4F.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/5C0A8C20-88D6-428E-8483-3A2A71A88C4F.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/5C0A8C20-88D6-428E-8483-3A2A71A88C4F.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/F07614E6-0C6C-4CA3-A941-AF421EEA442A.jpeg" width="2000" height="2798" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/F07614E6-0C6C-4CA3-A941-AF421EEA442A.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/F07614E6-0C6C-4CA3-A941-AF421EEA442A.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/F07614E6-0C6C-4CA3-A941-AF421EEA442A.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/F07614E6-0C6C-4CA3-A941-AF421EEA442A.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/BF81C69C-A0B8-4A54-A417-D6AD8FC43A18.jpeg" width="2000" height="1429" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/BF81C69C-A0B8-4A54-A417-D6AD8FC43A18.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/BF81C69C-A0B8-4A54-A417-D6AD8FC43A18.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/BF81C69C-A0B8-4A54-A417-D6AD8FC43A18.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/BF81C69C-A0B8-4A54-A417-D6AD8FC43A18.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
 
 The tour took us to Edinburgh Castle, which sits at the top of the appropriately named Castle Rock. The site has been occupied since at least the Iron Age, and has had a royal castle since at least the 12th century. Unfortunately, warfare being what it is much of the castle has been destroyed and rebuilt multiple times since then. The highlight of the tour was seeing the Honours of Scotland (Scottish Crown Jewels) and the Stone of Destiny. Photos were sadly not permitted.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/8D3A9D7F-A559-4CFD-AEAB-E38D9AB2AE69.jpeg" width="2000" height="1428" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/8D3A9D7F-A559-4CFD-AEAB-E38D9AB2AE69.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/8D3A9D7F-A559-4CFD-AEAB-E38D9AB2AE69.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/8D3A9D7F-A559-4CFD-AEAB-E38D9AB2AE69.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/8D3A9D7F-A559-4CFD-AEAB-E38D9AB2AE69.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/8C2A5BC9-4CCF-4182-8D5E-080F770A6348.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/8C2A5BC9-4CCF-4182-8D5E-080F770A6348.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/8C2A5BC9-4CCF-4182-8D5E-080F770A6348.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/8C2A5BC9-4CCF-4182-8D5E-080F770A6348.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/8C2A5BC9-4CCF-4182-8D5E-080F770A6348.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/3656C675-06AF-4CE6-9DB1-F125D34632EF.jpeg" width="2000" height="1429" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/3656C675-06AF-4CE6-9DB1-F125D34632EF.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/3656C675-06AF-4CE6-9DB1-F125D34632EF.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/3656C675-06AF-4CE6-9DB1-F125D34632EF.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/3656C675-06AF-4CE6-9DB1-F125D34632EF.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="gallery" data-columns="3">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1089.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1107.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1128.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1141.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1137.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1160.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1163.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1169.jpeg">
 </div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/56A7436C-40F5-4F27-AA86-263ED41620BA.jpeg" width="2000" height="1429" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/56A7436C-40F5-4F27-AA86-263ED41620BA.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/56A7436C-40F5-4F27-AA86-263ED41620BA.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/56A7436C-40F5-4F27-AA86-263ED41620BA.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/56A7436C-40F5-4F27-AA86-263ED41620BA.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/5EAF0765-4876-4A1A-BF16-4D82EA8729BC.jpeg" width="2000" height="1428" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/5EAF0765-4876-4A1A-BF16-4D82EA8729BC.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/5EAF0765-4876-4A1A-BF16-4D82EA8729BC.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/5EAF0765-4876-4A1A-BF16-4D82EA8729BC.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/5EAF0765-4876-4A1A-BF16-4D82EA8729BC.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/91B36230-F6A9-4A92-B6F8-2D8692E56CA4.jpeg" width="2000" height="2798" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/91B36230-F6A9-4A92-B6F8-2D8692E56CA4.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/91B36230-F6A9-4A92-B6F8-2D8692E56CA4.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/91B36230-F6A9-4A92-B6F8-2D8692E56CA4.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/91B36230-F6A9-4A92-B6F8-2D8692E56CA4.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/1395C1A9-820C-41B1-828D-4B50FC3DD339.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/1395C1A9-820C-41B1-828D-4B50FC3DD339.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/1395C1A9-820C-41B1-828D-4B50FC3DD339.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/1395C1A9-820C-41B1-828D-4B50FC3DD339.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/1395C1A9-820C-41B1-828D-4B50FC3DD339.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/476843E1-63D1-4E73-821A-8C703084A4FE.jpeg" width="2000" height="1331" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/476843E1-63D1-4E73-821A-8C703084A4FE.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/476843E1-63D1-4E73-821A-8C703084A4FE.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/476843E1-63D1-4E73-821A-8C703084A4FE.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/476843E1-63D1-4E73-821A-8C703084A4FE.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
 
 Tonight's dinner was at The World's End pub, named that because it stands near the old gates to Edinburgh, considered by many who would not be able afford the tax to re-enter the city if they chose to leave the end of their world. The fish and chips were delicious, even by Wisconsin fish fry standards.
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/05705C7B-9CA6-4A81-B436-C038CD0471F4.jpeg" width="2000" height="1429" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/05705C7B-9CA6-4A81-B436-C038CD0471F4.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/05705C7B-9CA6-4A81-B436-C038CD0471F4.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/05705C7B-9CA6-4A81-B436-C038CD0471F4.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/05705C7B-9CA6-4A81-B436-C038CD0471F4.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/58F2FEB1-E6BB-4A09-B7DD-B95EE0920DEE.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/58F2FEB1-E6BB-4A09-B7DD-B95EE0920DEE.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/58F2FEB1-E6BB-4A09-B7DD-B95EE0920DEE.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/58F2FEB1-E6BB-4A09-B7DD-B95EE0920DEE.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/58F2FEB1-E6BB-4A09-B7DD-B95EE0920DEE.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div></div></figure>
+<div class="gallery" data-columns="2">
+	<img src="/images/2022-07-20-scotland-day-5/DSC_1022.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/68002485017__0978D78F-CB77-466A-A682-5BF72E161309.jpeg">
+</div>
 
 Finally, I chatted with a couple folks at dinner and they suggested I investigate the Greyfriars Kirk, the first church built in post-reformation Scotland, founded in 1620. Rowling apparently borrowed quite a few names from headstones for Harry Potter, most famously Tom Riddell, who passed in 1806. The graveyard is very beautiful and also has a statue honoring the Greyfriars Bobby. Bobby was a Skye Terrier that sat by the grave of policeman John Gray after his death. Bobby also bears a striking resemblence to Fry's dog Seymour in Futurama episode "Jurassic Bark", perhaps they borrowed Bobby's story for the episode's ending?
 
-<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container">
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/7000F7FB-215C-4E14-A42A-708DFBE0C22D.jpeg" width="1956" height="2739" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/7000F7FB-215C-4E14-A42A-708DFBE0C22D.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/7000F7FB-215C-4E14-A42A-708DFBE0C22D.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/7000F7FB-215C-4E14-A42A-708DFBE0C22D.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/7000F7FB-215C-4E14-A42A-708DFBE0C22D.jpeg 1956w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/3106FC58-2FDA-45B4-9E2C-D79B66C6272F.jpeg" width="2000" height="1428" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/3106FC58-2FDA-45B4-9E2C-D79B66C6272F.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/3106FC58-2FDA-45B4-9E2C-D79B66C6272F.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/3106FC58-2FDA-45B4-9E2C-D79B66C6272F.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/3106FC58-2FDA-45B4-9E2C-D79B66C6272F.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/D14DC811-2314-47C2-9230-DD0DF0024BA2.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/D14DC811-2314-47C2-9230-DD0DF0024BA2.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/D14DC811-2314-47C2-9230-DD0DF0024BA2.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/D14DC811-2314-47C2-9230-DD0DF0024BA2.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/D14DC811-2314-47C2-9230-DD0DF0024BA2.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
+<div class="gallery" data-columns="3">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0165.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0171.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0172.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0178.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0180.jpeg">
+	<img src="/images/2022-07-20-scotland-day-5/IMG_0182.jpeg">
 </div>
-<div class="kg-gallery-row">
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/CF81BB8C-AFFA-4DC7-A54E-06E9FE01315A.jpeg" width="2000" height="2801" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/CF81BB8C-AFFA-4DC7-A54E-06E9FE01315A.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/CF81BB8C-AFFA-4DC7-A54E-06E9FE01315A.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/CF81BB8C-AFFA-4DC7-A54E-06E9FE01315A.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/CF81BB8C-AFFA-4DC7-A54E-06E9FE01315A.jpeg 2126w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/DA76B6E2-1A2F-4597-8480-7CD3C1C8DF27.jpeg" width="1871" height="2620" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/DA76B6E2-1A2F-4597-8480-7CD3C1C8DF27.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/DA76B6E2-1A2F-4597-8480-7CD3C1C8DF27.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/DA76B6E2-1A2F-4597-8480-7CD3C1C8DF27.jpeg 1600w, __GHOST_URL__ /content/images/2022/07/DA76B6E2-1A2F-4597-8480-7CD3C1C8DF27.jpeg 1871w" sizes="(min-width: 720px) 720px"></div>
-<div class="kg-gallery-image"><img src=" __GHOST_URL__ /content/images/2022/07/6FFAD937-C74E-4F3B-899D-16F59A1B46A5.jpeg" width="2000" height="2800" loading="lazy" alt srcset=" __GHOST_URL__ /content/images/size/w600/2022/07/6FFAD937-C74E-4F3B-899D-16F59A1B46A5.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/07/6FFAD937-C74E-4F3B-899D-16F59A1B46A5.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/07/6FFAD937-C74E-4F3B-899D-16F59A1B46A5.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/07/6FFAD937-C74E-4F3B-899D-16F59A1B46A5.jpeg 2400w" sizes="(min-width: 720px) 720px"></div>
-</div>
-</div></figure>
 
 It was a long, tiring day, but Edinburgh is a beautiful city two walk around in.
-
