@@ -12,9 +12,9 @@ tags:
 - ws1
 ---
 
-This post is very similar to my last, [enabling SSH via Workspace ONE]( __GHOST_URL__ /enable-ssh-on-macos-via-workspace-one/). The process is identical, just the scripts have changed. Like the SHS post this is [adapted from information here](https://scriptingosx.com/2016/01/control-apple-remote-desktop-access-with-munki/).
+This post is very similar to my last, [enabling SSH via Workspace ONE](/enable-ssh-on-macos-via-workspace-one/). The process is identical, just the scripts have changed. Like the SSH post this is [adapted from information here](https://scriptingosx.com/2016/01/control-apple-remote-desktop-access-with-munki/).
 
-## Create a **Custom Attribute** profile
+## Create a Custom Attribute profile
 
 The custom attribute profile will check the status of ARD on assigned devices, reporting back to WS1.
 

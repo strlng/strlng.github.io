@@ -51,7 +51,20 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+jekyll-archives:
+  enabled:
+    - year
+  layout: archive
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    day: '/archive/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
   
