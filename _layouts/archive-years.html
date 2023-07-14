@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Archive
 ---
 
 <section class="intro">
@@ -17,11 +18,14 @@ layout: default
 	<div class="wrap">
 
 		<ul class="posts">
-		{% for post in page.posts %}
+		{% for post in site.posts %}
+		{% assign postyear = post.date | date: "%Y" %}
+		{% if postyear == page.year %}
 		  <li>
 			<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
 			<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
 		  </li>
+		{% endif %}
 		{% endfor %}
 		</ul>
 
