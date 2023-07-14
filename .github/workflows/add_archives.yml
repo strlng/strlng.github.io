@@ -15,7 +15,7 @@ jobs:
       - name: Jekyll Blog Archive
         uses: kannansuresh/jekyll-blog-archive-workflow@v1.0.3
         with:
-          archive_url: "https://strlng.github.io/archive/archivedata"
+          archive_url: "https://strlng.github.io/archive/archivedata/index.html"
           archive_folder_path: "_archive"
 
       - name: setup git config
