@@ -1,22 +1,21 @@
 name: Generate Jekyll Archives
 # description: Generate categories, tags and years archive files.
 on:
-	workflow_dispatch:
+    workflow_dispatch:
     push:
         paths:
-		    - "_posts/**"
-
+            - "_posts/**"
 jobs:
-	build:
-	runs-on: ubuntu-latest
-	steps:
-		- uses: actions/checkout@v3
-		
-		- name: Jekyll Blog Archive
-			uses: kannansuresh/jekyll-blog-archive-workflow@v1.0.3
-			with:
-				archive_url: "https://strlng.github.io/archive/archivedata"
-				archive_folder_path: "_archive"
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            
+            - name: Jekyll Blog Archive
+                uses: kannansuresh/jekyll-blog-archive-workflow@v1.0.3
+                with:
+                    archive_url: "https://strlng.github.io/archive/archivedata"
+                    archive_folder_path: "_archive"
 		
 		- name: setup git config
 			run: |
