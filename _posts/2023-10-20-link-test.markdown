@@ -1,0 +1,9 @@
+---
+layout: link
+title: Link Post Type Test
+link: https://cnn.com
+date: '2022-10-20 12:41:00'
+---
+
+This is a test post.
+
