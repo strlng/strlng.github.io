@@ -22,18 +22,18 @@
 }
 
 .blog-post {
-	margin-top: 40px;
+	margin-top: 10px;
 
 	@include mq(tabletp) {
-		margin-top: 60px;
+		margin-top: 20px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 80px;
+		margin-top: 20px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 100px;
+		margin-top: 25px;
 	}
 
 	&:first-child {
@@ -42,7 +42,7 @@
 }
 
 .blog-post__image {
-	margin-top: 20px;
+	margin-top: 10px;
 	display: block;
 	width: 100%;
 	height: 0;
@@ -52,31 +52,31 @@
 	background-repeat: no-repeat;
 
 	@include mq(tabletp) {
-		margin-top: 25px;
+		margin-top: 20px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 30px;
+		margin-top: 20px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 40px;
+		margin-top: 25px;
 	}
 }
 
 .blog-post__content {
-	margin-top: 20px;
+	margin-top: 10px;
 
 	@include mq(tabletp) {
-		margin-top: 25px;
+		margin-top: 15px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 30px;
+		margin-top: 20px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 40px;
+		margin-top: 30px;
 	}
 
 	p .button {

@@ -54,15 +54,15 @@
 	min-height: 100vh;
 
 	@include mq(tabletp) {
-		padding: 40px 0;
+		padding: 20px 0;
 	}
 
 	@include mq(tabletl) {
-		padding: 30px 40px 40px;
+		padding: 20px 40px 40px;
 	}
 
 	@include mq(laptop) {
-		padding: 40px 60px 60px;
+		padding: 20px 60px 30px;
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
@@ -93,11 +93,13 @@
 	}
 
 	hr {
-		margin: 20px auto;
+		border-top: dashed 1px;
+		margin: 10px auto;
+		background-color: transparent;
 
 		@include mq(tabletp) {
-			margin-top: 40px;
-			margin-bottom: 40px;
+			margin-top: 20px;
+			margin-bottom: 20px;
 			width: auto;
 		}
 
@@ -133,8 +135,8 @@
 	}
 
 	p a {
-		font-weight: $bold-weight;
-		border-bottom: 2px solid $accent-color;
+		font-weight: $regular-weight;
+		border-bottom: 1px dashed $accent-color;
 	}
 
 	p .button {

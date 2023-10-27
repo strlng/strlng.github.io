@@ -12,9 +12,11 @@ featured_image: /images/bg.jpeg
 		{% for post in paginator.posts %}
 
 		<article class="blog-post">
-
+			
 			<div class="blog-post__header">
+				{% if post.layout != "aside" %}
 				<h2 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				{% endif %}
 				<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
 			</div>
 
@@ -23,12 +25,12 @@ featured_image: /images/bg.jpeg
 			{% endif %}
 
 			<div class="blog-post__content">
-				<p>{{ post.content }}</p>
+				<p>{{ post.excerpt }}</p>
 				<p><a href="{{ post.url | relative_url }}" class="button">Read More</a>
 			</div>
 
 		</article>
-
+		<hr>
 		{% endfor %}
 
 	</div>

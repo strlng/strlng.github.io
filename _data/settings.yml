@@ -69,8 +69,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
-  title_font: '"Merriweather", sans-serif'
-  body_font: '"Muli", sans-serif'
+  title_font: '"Inter Tight", Helvetica, Ariel, sans-serif'
+  body_font: '"Red Hat Display", Helvetica, Ariel, sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
