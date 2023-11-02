@@ -45,5 +45,3 @@ For PHP do the following:
 $ sudo cp /usr/local/src/php-5.1.6/php.ini-recommended /usr/local/php5/etc/php.ini
 
 Edit /usr/local/php5/etc/php.ini, find the line that says display\_errors = Off and change it to display\_errors = On The easiest way to get everything started is just to reboot. Now you are set to do some PHP web development on your Mac. You’ve probably noticed I didn’t do anything with Subversion. I’ll post something on setting that up in the future.
-
-<!--kg-card-end: markdown-->

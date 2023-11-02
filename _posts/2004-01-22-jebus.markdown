@@ -5,5 +5,3 @@ date: '2004-01-22 09:52:00'
 ---
 
 It’s cold. My face hurt for 10 minutes after walking the block and a half from my car to my office. -30 degree wind chill will do that I guess.
-
-<!--kg-card-end: markdown-->

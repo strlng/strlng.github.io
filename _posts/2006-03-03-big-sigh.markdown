@@ -5,5 +5,3 @@ date: '2006-03-03 16:33:00'
 ---
 
 13 Days to go until Apple ships my MacBook Pro. It’s getting hard to wait. I’ve been hearing about some issues people have been dealing with. At work I’m hearing complaints about older apps and no Classic support. Since I do not use any Classic apps and most of my day to day apps are either compiled by me personally or the developers are actively working on them (meaning they are already Universal) I am not too concerned.
-
-<!--kg-card-end: markdown-->

@@ -7,5 +7,3 @@ tags:
 ---
 
 ![watson]( __GHOST_URL__ /content/images/2018/03/watson.jpg)
-
-<!--kg-card-end: markdown-->

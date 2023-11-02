@@ -11,5 +11,3 @@ I secretly grabbed a video of the kids playing the Wii with the iMac’s built i
 <param name="allowFullScreen" value="true">
 <param name="allowscriptaccess" value="always">
 <embed allowfullscreen="true" allowscriptaccess="always" height="417" src="http://www.youtube.com/v/GeD3u6ncD1A&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="500" wmode="window"></embed></object>
-
-<!--kg-card-end: markdown-->

@@ -15,5 +15,3 @@ Worse though is Gloria Steinem, stating “When you’re young, you’re thinkin
 The possibility of a female president is a very big deal. Especially one calling for pay equality, paid family leave, and reproductve rights. Shaming women who choose not to support that candidate does seem like a winning move.
 
 All that being said, women absolutely have to deal with a different set of standards, and Clinton has been a pro at navigating this. Clinton’s frustration at not having as much support with younger women is understandable. The optimism that draws young people to the big ideas of Sanders also likely leads them to believe sexism is something that they can end more easily. They haven’t had the experience dealing with institutionalized sexism for decades like the older supporters of Clinton.
-
-<!--kg-card-end: markdown-->

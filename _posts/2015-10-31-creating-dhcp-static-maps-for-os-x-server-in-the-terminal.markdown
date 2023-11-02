@@ -25,5 +25,3 @@ Paste your script output in to the terminal window then, and to leave the comman
 `$ sudo serveradmin settings dhcp:static_maps`
 
 Your new maps should also show up in the Server GUI application.
-
-<!--kg-card-end: markdown-->

@@ -23,5 +23,3 @@ An example of running the check from the command line would be:
 Add _–plugins_ or _–themes_ to check for updates to them.
 
 The code for the plugin is below, but it is part of the repository here: [icinga\_plugins](https://github.com/sterlinganderson/icing_plugins)
-
-<!--kg-card-end: markdown--><!--kg-card-begin: html--><script src="https://gist.github.com/strlng/999b00dbebf7ba721f568a74697dd93a.js"></script><!--kg-card-end: html-->

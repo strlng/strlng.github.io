@@ -9,5 +9,3 @@ It is interesting to me that when I speak to people that want to see public empl
 I think what many people do not realize is that most of these public employees don’t just think they should be getting high quality, cheap benefits, they think all workers should.
 
 This doesn’t help you if you work for an employer who treats you like garbage, and who does not think decent benefits are a good value for their employees. Hopefully it will help some realize that public workers are not the enemy though.
-
-<!--kg-card-end: markdown-->

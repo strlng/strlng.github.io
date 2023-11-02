@@ -17,5 +17,3 @@ Presidential candidate, and former President of the Screen Writers’ Guild Rona
 Wisconsin Governor Scott Walker is apparently a big Reagan fan[[2](http://host.madison.com/ct/news/article_79574432-41b8-11e0-a847-001cc4c03286.html "Walker loves Reagan")]. I wonder if he knows about Reagan’s sordid past?
 
 _Kudos to my friend Cheryl for the link to Reagan’s speech_
-
-<!--kg-card-end: markdown-->

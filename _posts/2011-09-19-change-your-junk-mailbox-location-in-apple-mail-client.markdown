@@ -14,7 +14,3 @@ You can change your junk mail folder pretty easily by editing a plist file.
 4. Save the file and relaunch Mail.
 
 The Junk folder for your account should now map to the Junk folder in Apple Mail.
-
-<dl class="gallery-item"><dt class="gallery-icon landscape">[![](https://i0.wp.com/sterlinganderson.net/wp-content/uploads/2011/09/Mail1.jpg?resize=100%2C100&amp;ssl=1)](https://i0.wp.com/sterlinganderson.net/wp-content/uploads/2011/09/Mail1.jpg?ssl=1)</dt></dl>
-<dl class="gallery-item"><dt class="gallery-icon portrait">[![](https://i2.wp.com/sterlinganderson.net/wp-content/uploads/2011/09/Accounts.plist_1.jpg?resize=100%2C100&amp;ssl=1)](https://i2.wp.com/sterlinganderson.net/wp-content/uploads/2011/09/Accounts.plist_1.jpg?ssl=1)</dt></dl>
-<!--kg-card-end: markdown-->

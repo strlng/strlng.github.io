@@ -12,5 +12,3 @@ The law firm did have a little help getting their foot in the door it seems.
 
 > Signing the contract for Michael Best & Friedrich was attorney Raymond Taffora, a month after he left his job with the state attorney general’s office, which usually represents the state on legal challenges.  
 > Werwie said the firm was hired “at the request of the attorney general’s office” to review the budget-repair bill and provide other legal services the office could not.
-
-<!--kg-card-end: markdown-->

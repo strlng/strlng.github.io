@@ -14,5 +14,3 @@ From the article:
 > “We’re going to need the Internal Revenue Service to define a rape; potentially a forcible rape, incest; potentially incest involving minors; as opposed to incest not involving minors; physical conditions endangering life, and physical conditions that don’t endanger life,”
 
 Regardless of your feelings on abortion do you want to give this much control over your body to your government? Is this what the GOP campaigned on? A smaller government that didn’t boss us around so much? They could at least pretend they care about the people they are doing this to by making sure they throw in more funding for early childhood development and sex education. Of course that won’t really help the 18 year old girl who finally gets pregnant after being raped by her father for years. She’ll just have to keep the baby.
-
-<!--kg-card-end: markdown-->

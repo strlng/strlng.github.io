@@ -15,5 +15,3 @@ When you are at a location or with a person, say someplace or someone you refer 
 Do not put a space in someone’s Twitter handle. That seems to trip quite a few people up as well. If your friend is @sterlingjones on Twitter mentioning them as “@sterling jones” doesn’t work. You guessed it, your tweet ends up as a mention to me.
 
 Just mentioning your friend’s name and putting the “@” in front of it doesn’t help them see your tweet. I do though. They need a Twitter account for @ replies to work.
-
-<!--kg-card-end: markdown-->

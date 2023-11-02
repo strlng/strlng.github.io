@@ -7,5 +7,3 @@ tags:
 ---
 
 ![8457964020_f558aa8076_b]( __GHOST_URL__ /content/images/2018/03/8457964020_f558aa8076_b.jpg)
-
-<!--kg-card-end: markdown-->

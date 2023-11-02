@@ -10,5 +10,3 @@ I think we need two copies of this book.
 > The lambs have laid down with the sheep.  
 > You’re cozy and warm in your bed, my dear  
 > Please go the fuck to sleep
-
-<!--kg-card-end: markdown-->

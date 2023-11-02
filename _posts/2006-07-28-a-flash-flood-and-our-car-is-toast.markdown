@@ -16,5 +16,3 @@ various papers from work
 1 GB iPod Shuffle  
 60 GB iPod Video  
 Yes, I’m pretty pissed. My brand new Timbuk2 laptop bagged cleaned up pretty good and is drying right now. I think it will pull through.
-
-<!--kg-card-end: markdown-->

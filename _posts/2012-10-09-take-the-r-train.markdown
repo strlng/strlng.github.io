@@ -11,5 +11,3 @@ This wonderful song asks the viewer to vote Romney/Ryan. It doesn’t get really
 This Youtube artist has also done the country a service by [pointing out the many phallic symbols at the Denver airport](http://www.youtube.com/watch?v=LOQsvOkkLq4).
 
 (via [BoingBoing](http://boingboing.net/2012/10/09/vote-for-mitt-romney.html))
-
-<!--kg-card-end: markdown-->

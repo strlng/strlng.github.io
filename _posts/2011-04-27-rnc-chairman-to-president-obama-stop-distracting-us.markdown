@@ -11,5 +11,3 @@ Republican National Committee Chairman Reince Priebus released the following sta
 Yes, the President just cannot stop talking about his birth certificate it seems.
 
 Perhaps the RNC should require all members to denounce birthirism, and anyone who has ever questioned the President’s place of birth should be kicked out of the Party to show how serious they are.
-
-<!--kg-card-end: markdown-->

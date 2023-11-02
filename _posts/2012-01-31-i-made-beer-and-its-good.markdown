@@ -15,5 +15,3 @@ The beer fermented for one week, then I transferred it to a secondary fermentor.
 It’s only been 10 days since bottling but I could not wait any longer. Last night I had my first taste. I was really nervous that the beer would not get good enough carbonation. Jack helped film me taking the first taste.
 
 [sublimevideo class=”sublime” poster=”[http://frodo.sterlinganderson.net/wp-content/uploads/2012/01/IMadeBeer1.jpg”](http://frodo.sterlinganderson.net/wp-content/uploads/2012/01/IMadeBeer1.jpg%E2%80%9D) src1=”[http://frodo.sterlinganderson.net/wp-content/uploads/2012/01/IMadeBeer1.m4v”](http://frodo.sterlinganderson.net/wp-content/uploads/2012/01/IMadeBeer1.m4v%E2%80%9D) width=”450″ height=”253″]
-
-<!--kg-card-end: markdown-->

@@ -11,5 +11,3 @@ I’ve got a few photos of the event, and a great video of Joe pumped up by U.S.
 <video class="sublime" height="266" poster="/video/joseph_rally-poster.jpg" preload="none" width="500"><source src=" __GHOST_URL__ /video/joseph_rally-h264.m4v"></source></video>  
 [  
  ![obama 1](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-11-120x120.jpg?resize=120%2C120 "obama 1")](http://frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-11.jpg) [![obama 2](https://i0.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-21-120x120.jpg?resize=120%2C120 "obama 2")](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-21.jpg) [![obama 3](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-31-120x120.jpg?resize=120%2C120 "obama 3")](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2010/09/obama-31.jpg)
-
-<!--kg-card-end: markdown-->

@@ -11,5 +11,3 @@ New York mayor Michael Bloomberg:
 [Mayor Bloomberg Stands Up For Mosque](http://www.nydailynews.com/blogs/dailypolitics/2010/08/bloomberg-stands-up-for-mosque.html)
 
 via [daringfireball.net](http://daringfireball.net/linked/2010/08/03/bloomberg)
-
-<!--kg-card-end: markdown-->

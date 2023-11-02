@@ -27,5 +27,3 @@ Once again it is the conservative wing of the court ruling they are the ones abo
 > “Justice Roggensack joins three colleagues . . . to make four to rule on the motion to disqualify Justice Roggensack. Thus Justice Roggensack participates in a matter reviewing her own conduct.
 > 
 > “That Justice Roggensack participates in this motion for reconsideration is not a due process or ethical calculation but a mathematical one: one vote plus three votes equals an attempt to achieve a majority.”
-
-<!--kg-card-end: markdown-->

@@ -11,5 +11,3 @@ tags:
 ![protest-2]( __GHOST_URL__ /content/images/2018/02/protest-2.jpg)
 
 ![protest-3]( __GHOST_URL__ /content/images/2018/02/protest-3.jpg)
-
-<!--kg-card-end: markdown-->

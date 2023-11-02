@@ -14,5 +14,3 @@ tags:
  ![20130521-102800]( __GHOST_URL__ /content/images/2018/03/20130521-102800.jpg)  
  ![20130521-102810]( __GHOST_URL__ /content/images/2018/03/20130521-102810.jpg)  
  ![20130521-102815]( __GHOST_URL__ /content/images/2018/03/20130521-102815.jpg)
-
-<!--kg-card-end: markdown-->

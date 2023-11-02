@@ -18,5 +18,3 @@ I was rather surprised today though, after installing Final Cut Pro X, Motion 5,
 [![Apple Cheats](https://i2.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2011/06/apple_cheats1-362x440.jpg?resize=362%2C440 "Apple Cheats")](https://i1.wp.com/frodo.sterlinganderson.net/wp-content/uploads/2011/06/apple_cheats1.jpg)
 
 All three updates are specific only to these three apps purchased through the App Store. This is pretty smart of Apple, but it seems kind of like cheating. They won’t let an App Store app install files in shared locations, or download additional resources, but they just throw in some software updates to do that for their own applications. I know of a few applications that have reduced functionality if downloaded via the App Store vs. downloading from the developers’ website, I’m sure those developers would like to be able to use Apple’s trick.
-
-<!--kg-card-end: markdown-->

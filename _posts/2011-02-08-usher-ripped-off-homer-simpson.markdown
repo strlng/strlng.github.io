@@ -9,5 +9,3 @@ Check out the startling similarity between Usherâ€™s song OMG and Homer Simpsonâ
 <iframe allowfullscreen="" frameborder="0" height="390" src="http://www.youtube.com/embed/xgCo5DVX3XQ" title="YouTube video player" width="480"></iframe>
 
 Seen on [Kottke](http://kottke.org/11/02/did-usher-rip-off-homer-simpson).
-
-<!--kg-card-end: markdown-->

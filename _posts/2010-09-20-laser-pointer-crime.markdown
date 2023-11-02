@@ -20,5 +20,3 @@ Wisconsin state statute
 In case you were wondering, a Class B misdemeanor may include a fine up to $1,000, or imprisonment for up to 90 days, or both; however, for a repeat offender, the term of imprisonment could increase to up to 2 years.
 
 link: [http://www.legis.state.wi.us/statutes/Stat0941.pdf](http://www.legis.state.wi.us/statutes/Stat0941.pdf)
-
-<!--kg-card-end: markdown-->

@@ -17,5 +17,3 @@ date: '2010-08-28 20:36:33'
 <param name="flashvars" value="videoId=593569611001&amp;playerID=83327935001&amp;playerKey=AQ%2E%2E,AAAAAAuyCbQ%2E,-gfAmfm8njJ8S-9E4q2UfzG931rvkxuP&amp;domain=embed&amp;dynamicStreaming=true">
 <param name="allowfullscreen" value="true">
 <embed allowfullscreen="true" allowscriptaccess="always" base="http://admin.brightcove.com" bgcolor="#FFFFFF" flashvars="videoId=593569611001&amp;playerID=83327935001&amp;playerKey=AQ%2E%2E,AAAAAAuyCbQ%2E,-gfAmfm8njJ8S-9E4q2UfzG931rvkxuP&amp;domain=embed&amp;dynamicStreaming=true" height="388" id="flashObj" name="flashObj" seamlesstabbing="false" src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" swliveconnect="true" type="application/x-shockwave-flash" width="456"></embed></object>
-
-<!--kg-card-end: markdown-->

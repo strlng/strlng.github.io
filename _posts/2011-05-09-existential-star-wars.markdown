@@ -9,5 +9,3 @@ date: '2011-05-09 09:33:44'
 The movie takes on a deeper meaning in French.
 
 (via [BoingBoing](http://www.boingboing.net/2011/05/09/existential-star-war.html))
-
-<!--kg-card-end: markdown-->

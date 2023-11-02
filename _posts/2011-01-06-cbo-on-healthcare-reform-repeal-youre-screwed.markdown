@@ -18,5 +18,3 @@ The CBO goes on to to point out 32 million fewer people will have health insuran
 > Premiums for employment-based coverage obtained through large employers would be slightly higher under H.R. 2 than under current law, reflecting the net impact of many relatively small changes. Premiums for employment-based coverage obtained through small employers might be slightly higher or slightly lower (reflecting uncertainty about the impact of the enacted legislation on premiums in that market).
 
 So if the Republicans get their way and this repeal bill is passed we get larger deficits, absolutely no savings will be seen. So much for fiscal responsibility. Less people will have insurance, and if your premiums do go down it will be because your insurer is covering less leaving more for you to pay out of pocket.
-
-<!--kg-card-end: markdown-->

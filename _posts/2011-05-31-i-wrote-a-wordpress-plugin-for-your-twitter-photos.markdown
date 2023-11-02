@@ -17,5 +17,3 @@ Here is some information on the image hosting terms of service issue:
 [http://boingboing.net/2011/05/12/all-your-pics-are-be.html](http://boingboing.net/2011/05/12/all-your-pics-are-be.html)
 
 This is a very early release, and my first WordPress plugin so please let me know of problems you find [@sterling](http://twitter.com/sterling)
-
-<!--kg-card-end: markdown-->

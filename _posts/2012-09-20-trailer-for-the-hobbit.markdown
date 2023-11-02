@@ -9,5 +9,3 @@ date: '2012-09-20 19:38:29'
 I can’t wait.
 
 Five alternate trailers are [available here too](http://www.thehobbit.com/index.html).
-
-<!--kg-card-end: markdown-->

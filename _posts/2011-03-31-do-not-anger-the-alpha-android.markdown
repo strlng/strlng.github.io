@@ -9,5 +9,3 @@ date: '2011-03-31 11:51:40'
 Wonderful, open Android. Is this what the carriers signed up for?
 
 First news that the tablet version of Android [isn’t exactly Open Source](http://www.businessweek.com/technology/content/mar2011/tc20110324_269784.htm), at least not until Google decides they want to. Now Google is clamping down on what they are allowing partners to do with Android on phones. Now that Android is popular Google is pulling the rug out.
-
-<!--kg-card-end: markdown-->

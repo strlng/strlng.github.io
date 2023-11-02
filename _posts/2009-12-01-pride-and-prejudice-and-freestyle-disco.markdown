@@ -9,5 +9,3 @@ date: '2009-12-01 00:47:00'
 <param name="allowFullScreen" value="true">
 <param name="allowscriptaccess" value="always">
 <embed allowfullscreen="true" allowscriptaccess="always" height="417" src="http://www.youtube.com/v/gTchxR4suto&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="500" wmode="window"></embed></object>
-
-<!--kg-card-end: markdown-->
