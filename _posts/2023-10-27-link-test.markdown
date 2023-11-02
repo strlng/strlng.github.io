@@ -1,8 +1,0 @@
----
-layout: aside
-title: Link test
-date: '2023-10-27 12:34:47'
-link: https://cnn.com
----
-
-[This is the text](https://cnn.com) of my post test.
