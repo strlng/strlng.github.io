@@ -21,18 +21,6 @@
 	}
 
 	.wrap {
-
-		@include mq(tabletl) {
-			max-width: 80%;
-		}
-
-		@include mq(laptop) {
-			max-width: 75%;
-		}
-
-		@include mq(desktop) {
-			max-width: 70%;
-		}
 	}
 	
 	h1 {
@@ -68,21 +56,6 @@
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
 		margin-left: auto;
 		margin-right: auto;
-
-		@include mq(tabletp) {
-		}
-
-		@include mq(tabletl) {
-			max-width: 80%;
-		}
-
-		@include mq(laptop) {
-			max-width: 75%;
-		}
-
-		@include mq(desktop) {
-			max-width: 70%;
-		}
 	}
 
 	ul, ol {
@@ -96,24 +69,6 @@
 		border-top: dashed 1px;
 		margin: 10px auto;
 		background-color: transparent;
-
-		@include mq(tabletp) {
-			margin-top: 20px;
-			margin-bottom: 20px;
-			width: auto;
-		}
-
-		@include mq(tabletl) {
-			max-width: 80%;
-		}
-
-		@include mq(laptop) {
-			max-width: 75%;
-		}
-
-		@include mq(desktop) {
-			max-width: 70%;
-		}
 	}
 
 	blockquote,
@@ -150,19 +105,6 @@
 
 		@include mq(tabletp) {
 			margin: 30px auto;
-		}
-
-		@include mq(tabletl) {
-			max-width: 80%;
-		}
-
-		@include mq(laptop) {
-			margin: 40px auto;
-			max-width: 75%;
-		}
-
-		@include mq(desktop) {
-			max-width: 70%;
 		}
 	}
 

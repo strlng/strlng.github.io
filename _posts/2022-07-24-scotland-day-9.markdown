@@ -27,6 +27,8 @@ And of course, more Hairy Cows! They really seem to love thistle!
 	<img src="/images/2022-07-24-scotland-day-9/DSC_1768.jpeg">
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ku4dH_ffeA?si=pGht64ChhPuYa_Ve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Portree is a beautiful small town, and I plan on staying there for at least a night on my next visit. The [Portree Hotel](http://theportreehotel.com/) looks great, and I had an amazing potato and leek soup with a glass of ale from Isle of Skye Brewing Company in the attached restaurant. I missed the fish chowder they also had on the menu in my excitement and I’m still bothered by that. Next time for sure. I was able to try Skye’s IPA at another stop when we pulled up to their brewery store.
 
 <div class="gallery">

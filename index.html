@@ -25,8 +25,12 @@ featured_image: /images/bg.jpeg
 			{% endif %}
 
 			<div class="blog-post__content">
+				{% if post.layout == "aside" %}
+				<p>{{ post.content }}</p>
+				{% else %}
 				<p>{{ post.excerpt }}</p>
 				<p><a href="{{ post.url | relative_url }}" class="button">Read More</a>
+				{% endif %}
 			</div>
 
 		</article>
